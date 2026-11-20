@@ -1,11 +1,32 @@
 {
- "source_commit": "e9b3404",
+ "source_commit": "1efd2b2",
  "files": {
   ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "404.html": "1c69e86a4a1c2f0dc728bce89021f19c9dad4fbbb81369fc0da9495a495c4b6b",
-  "README.md": "20edb97c937d87dff5f743d8d271203618a1e35e955921292bccba59247b8d07",
-  "assets/index-ClG4dna9.js": "3b60ff1848be7dc85ac89f0fab0e798bd07dd7aa373125fb76dc85b32afac864",
-  "assets/index-DTQ0DPza.css": "80ea407485e36fc787cd75921dd99e6d77dc36286d5bc9a17131768e25e3e319",
-  "index.html": "1c69e86a4a1c2f0dc728bce89021f19c9dad4fbbb81369fc0da9495a495c4b6b"
+  "404.html": "aa9b1913c16f8bdb8cde7802259f3358ff988df63d21b3fb3504f738fa43abf0",
+  "assets/ADMIN_MANUAL-DK8HPTKe.js": "36a99a181adbd94e5b0b2fcbd156f4ce8ada347285b51c131e2a7d3af55f6ac3",
+  "assets/index-BjgYjK5D.css": "8796a3f1ec3af175e21f441b7b525911814d5b065bc8c93811d312666f6600b6",
+  "assets/index-D--dj6E8.js": "f51a8e4a21f872f27f0746b495daed22afee35358e30c92d6b98fa1aaf2b52b5",
+  "index.html": "aa9b1913c16f8bdb8cde7802259f3358ff988df63d21b3fb3504f738fa43abf0",
+  "tutorial/customer-account.webp": "1083b7c6c4c7855e955c4f46e38d72bb14612b07a33b16fcad8c89f2e2804d58",
+  "tutorial/customer-apply.webp": "0824a172eff405a7f13afab8bd5304cfc56c6b8f295e9b5cb36e4506887f3a5e",
+  "tutorial/customer-isp-home.webp": "a2723c2806382728f3a4f7eca40f1c78ce7d0520a79d5366d9226d311a91074a",
+  "tutorial/customer-providers.webp": "84b5aa189ef905d1ea15de09c5748c0d0d63c62a5ea2868aa48fecd63cde1c47",
+  "tutorial/customer-report-problem.webp": "654c331ea59ae2d5a57d45e15624e77f413692fa012124702e1de41dfc3236ff",
+  "tutorial/customer-sign-in.webp": "2fe7563a0617ecd4a906cb0ca353f06831224bf33fbaaa2a94919274a8a4949f",
+  "tutorial/user-collection-review.webp": "e65e204d08c1bd065b191dc05320efb34f64814815761c81856fca956a810b22",
+  "tutorial/user-collection-upload.webp": "a38291f865ab592b1712255478332d80b703bcbb79092fb1e9fe1003093e1fbf",
+  "tutorial/user-customer-panel.webp": "e2fb0ea807f43eeb20803e9187814493a389748a37c5845184ecaa4702f029e1",
+  "tutorial/user-customers.webp": "521cc159cfab8de2a668ec83e9d7038e972a42f3bfa02653de5aaa67812f1af8",
+  "tutorial/user-dashboard.webp": "4576a72cc86aa01e84941453e626b9ea3cb40ea8ec23485c6fb341917fb37022",
+  "tutorial/user-expenses.webp": "f01785aa5942bf4f3ff5d14f9a7db11a60f1b5470b00d72f77e57a9839fb23c3",
+  "tutorial/user-finance.webp": "ebabbdd44fbee83b33b3a205d3629618a5eee9aa28a5412bab04ebc71170232b",
+  "tutorial/user-home-editor.webp": "ca5a94646a0d7f23e99f5980fddb43c5dc098c29ac6b15fa50c7895c570f40b1",
+  "tutorial/user-import.webp": "cad34dab7270602d997e3df25af9f76435ca6e97d880c694b4a2b8e66b657cb7",
+  "tutorial/user-leads.webp": "5212a99e3cc9cc9c84b03f5dda45765dcafda788ba43d4febbc6e926bec26b0b",
+  "tutorial/user-map.webp": "2c3e6fc57d0cd73ba973b463121a970d62e611b0288951c82d03d33f46df5989",
+  "tutorial/user-payments.webp": "7047969b692991a311295e191c7f3f856c9c9ab90c7427a9de60e9be39343f09",
+  "tutorial/user-settings-checklist.webp": "f2fba9b48b0e04e36fc923ea86aeb41fa13cf98f58a729a500df4955b3ea7f5b",
+  "tutorial/user-sign-in.webp": "2fe7563a0617ecd4a906cb0ca353f06831224bf33fbaaa2a94919274a8a4949f",
+  "tutorial/user-staff.webp": "4b568afe88226463dc6e066edc98227f7c875134d3e107824e94c04e07591eae"
  }
 }
