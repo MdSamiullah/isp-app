@@ -1,11 +1,11 @@
 {
- "source_commit": "c64cc11",
+ "source_commit": "499e655",
  "files": {
   ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "404.html": "156cb7ab79e9298af156b6a72d97e57c32dd24ecfd147c60881223c4d9597f17",
   "CNAME": "0cb54b89ca99954103079d0843c8b99afb30ec44f36ca679ae08e696cfe43d29",
-  "assets/ADMIN_MANUAL-DK8HPTKe.js": "dbe4d72d33020e0ce971ff68bc78302d741ad3f0f7ce90c59927e81b74006247",
-  "assets/index-CY5ENoDl.js": "cc313652e03922fff020ec3ad86b88905a8b155e9f8ecd00ca9a2bed40f642d7",
+  "assets/ADMIN_MANUAL-DK8HPTKe.js": "b0eb53a5ae2aa856932e57945ad17aba45cd6a9e4032aa88b1b73c5ac831f458",
+  "assets/index-CY5ENoDl.js": "79a74914d88c0dc549932fe34c02810bbc37a96d1ca80ae44846ec75359cf206",
   "assets/index-DG4TAfJV.css": "89256f3d89944b4cf8c34f1f6cb0075b1433c36dea043fc99f6743f1ce460313",
   "index.html": "156cb7ab79e9298af156b6a72d97e57c32dd24ecfd147c60881223c4d9597f17",
   "tutorial/customer-account.webp": "1083b7c6c4c7855e955c4f46e38d72bb14612b07a33b16fcad8c89f2e2804d58",
